@@ -1,0 +1,15 @@
+{
+  "name": "advent_of_code",
+  "version": "1.0.0",
+  "description": "code for 2019 advent of code",
+  "main": "day_1.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "bethanyr",
+  "license": "ISC"
+}
